@@ -40,7 +40,7 @@ Un joueur doit commencer par ouvrir: obtenir au moins **450** points en trois la
 
 ### Achat
 
-Dans une partie à 30000 points, un joueur peut acheter le pointage du joueur précédent quand sons score cumulatif atteint 3000 points (ajustable pour les partie plus rapides). Un achat est en fait qu'un joueur va poursuivre à partir du pointage auquel le joueur précédent a arrêté (e.g. le joueur A arrête lorsqu'il lui reste 2 dés et il a 550 points, A fait inscrire 550 points à son score cumulatif et le joueur B commence son tour à 550 points et il lance les deux dés restants)
+Dans une partie à 30000 points, un joueur peut acheter le pointage du joueur précédent quand sons score cumulatif atteint 3500 points (ajustable pour les partie plus rapides). Un achat est en fait qu'un joueur va poursuivre à partir du pointage auquel le joueur précédent a arrêté (e.g. le joueur A arrête lorsqu'il lui reste 2 dés et il a 550 points, A fait inscrire 550 points à son score cumulatif et le joueur B commence son tour à 550 points et il lance les deux dés restants)
 
 ### Gagner la partie
 
